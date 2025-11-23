@@ -19,3 +19,11 @@ Modern, intuitive web UI for fast paper generation
 Tech Stack: Python, Gradio, Requests, Nest-Asyncio, Pybtex, ReportLab
 
 Use Case: Quickly prototype academic papers, generate literature reviews, and assist in research projects.
+<img width="1882" height="897" alt="image" src="https://github.com/user-attachments/assets/0dc7ad85-6179-46fa-8f1a-932aa9132233" />
+<img width="1633" height="891" alt="image" src="https://github.com/user-attachments/assets/88e92c5f-e250-43eb-b9a8-adef3d299776" />
+<img width="1630" height="865" alt="image" src="https://github.com/user-attachments/assets/0de6cd42-2fa9-4767-9c6b-3e2f2caa226c" />
+<img width="1793" height="823" alt="image" src="https://github.com/user-attachments/assets/595dc750-4855-4b6e-a72d-ab0a64b7f763" />
+
+
+
+
